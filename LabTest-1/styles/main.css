@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(197, 197, 255);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+header {
+    height: 60px; 
+    width: 100%;
+}
+
+header,
+footer {
+    background-color: cornflowerblue;
+}
+
+header h1,h3 {
+    margin-left: 10px;
+}
+
+header h1 {
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(18, 63, 153);
+
+}
+
+nav a {
+    color: white;
+}
+
+main {
+    background-color: rgb(231, 231, 249);
+}
+
+main h1,a,p {
+    margin-left: 10px;
+}
+
+nav .menu {
+    width: 80px;
+    align-content: center;
+    margin: 80px;
+}
+
+footer {
+    height: 30px
+}
+
+footer span{
+    margin-left: 10px;
+}
